@@ -1,15 +1,13 @@
 {
-  "name": "luckynumber",
+  "name": "leetcode",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "My solutions to Leetcode problems",
   "scripts": {},
-  "author": "",
+  "author": "ruiG",
   "license": "ISC",
-  "dependencies": {
-    "typescript": "^5.8.3"
-  },
+  "dependencies": {},
   "devDependencies": {
+    "typescript": "^5.8.3",
     "@types/bun": "^1.2.18"
   }
 }
