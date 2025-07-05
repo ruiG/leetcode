@@ -26,4 +26,3 @@ export function findLucky(arr: number[]): number {
 
   return highestLucky;
 }
-console.log(findLucky([2,2,3,4]));

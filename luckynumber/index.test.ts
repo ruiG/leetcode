@@ -18,6 +18,3 @@ test("[2,2,2,3,3]", () => {
   const arr  = [2,2,2,3,3];
   expect(findLucky(arr)).toBe(-1);
 });
-
-
-[2,2,2,3,3]
